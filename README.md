@@ -14,7 +14,7 @@ Run the analyse_all.m without any parameters. This should work on the images pro
 If you have any questions, perhaps the easiest thing is if you ask me directly.
 Andrea
 
-andrea.perna@roehampton.ac.uk
+andrea.perna@imtlucca.it
 
 
 
